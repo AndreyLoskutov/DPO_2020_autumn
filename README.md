@@ -1,4 +1,4 @@
-# DPO_Python_v2
+# DPO_2020_autumn
 
 # Материалы по курсу «Python для автоматизации и анализа данных» (НИУ ВШЭ, ЦНО ФКН).
 
@@ -10,49 +10,11 @@
 ## Блок 1. Python
 
 1 занятие (12.05.2020)  
-[Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование](https://github.com/pileyan/DPO_Python_v2/tree/master/1_Introduction)
+[Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные. Строки, ввод и форматирование](https://github.com/pileyan/DPO_2020_autumn/tree/master/lect1)
 
 2 занятие (16.05.2020) 
-[Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.](https://github.com/pileyan/DPO_Python_v2/tree/master/2_Containers_Conditions)
+[Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.](https://github.com/pileyan/DPO_2020_autumn/tree/master/lect2)
 
-3 занятие (20.05.2020)
-[Регулярные выражения. Использование регулярных выражений для поиска и предобработки текста.](https://github.com/pileyan/DPO_Python_v2/tree/master/3_regexp)
-
-4 занятие (23.05.2020)
-[Цикл for. Применение циклов к строкам, спискам, кортежам и словарям. Альтернатива коду с циклами: списковые включения. Итераторы, генераторы списков.](https://github.com/pileyan/DPO_Python_2020/tree/master/4_For_loop)
-
-5 занятие (27.05.2020)
-[Устройство функций в Python. Написание простейших функций. Lambda-функции. Функция map(). Написание сложных функций. генераторы, Декораторы, Рекурсия.](https://github.com/pileyan/DPO_Python_v2/tree/master/5_Functions)
-
-6 занятие (03.06.2020)
-[О-нотация, Эффективность работы кода на примере алгоритмов сортировки. Исключения. Работа с файлами: чтение и запись. Поиск ошибок в коде и отладка.](https://github.com/pileyan/DPO_Python_v2/tree/master/6_sorting_files)
-
-7 занятие (04.06.2020)
-[Сбор данных: введение в html, web-scraping с BeautifulSoup](https://github.com/pileyan/DPO_Python_v2/tree/master/7_Beautiful_soup_HTML)
-
-8 занятие (06.06.2020)
-[Сбор данных: web-scraping с BeautifulSoup(Продолжение).Продвинутая работа со словарями. Работа с файлами типа JSON и XML, работа с сервисами через API](https://github.com/pileyan/DPO_Python_v2/tree/master/8_JSON_XML)
-
-9 занятие (10.06.2020)
-[Сбор данных:Selenium, Openpyxl - библиотека для работы с Excel-файлами](https://github.com/pileyan/DPO_Python_v2/tree/master/9_Selenium_Openpyxl)
-
-10 занятие (10.06.2020)
-["Библиотеки для работы с данными в табличном формате: SQL для Python. Работа с Clickhouse."](https://github.com/pileyan/DPO_Python_v2/tree/master/10_Clickhouse)
-
-11 занятие (17.06.2020)
-[Объектно-ориентированное программирование. Классы. Создание модулей в Python.  Введение в среду разработки PyCharm.](https://github.com/pileyan/DPO_Python_v2/tree/master/11_Classes)
-
-12 занятие (24.06.2020)
-[Финальный проект - создание чат-бота в Telegram.](https://github.com/pileyan/DPO_Python_v2/tree/master/12_Bot)
-
-
-## Блок 2. Введение в анализ данных
-
-1 занятие (30.06.2020)
-[Введение в numpy: векторы и матрицы. Математические операции с векторами и матрицами.](https://github.com/pileyan/DPO_Python_v2/tree/master/13_Numpy)
-
-2 занятие (01.07.2020)
-[Введение в pandas: работа с данными в табличном виде. Фильтрация и агрегация.](https://github.com/pileyan/DPO_Python_v2/tree/master/14_Pandas)
 
 Материалы для тренировки  
 [Ссылки и краткие описания](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/dopmaterialy.md)
