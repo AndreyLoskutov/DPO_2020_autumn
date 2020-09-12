@@ -15,6 +15,8 @@
 2 занятие (05.09.2020) 
 [Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.](https://github.com/pileyan/DPO_2020_autumn/tree/master/lect2)
 
+3 занятие (09.09.2020)
+[Регулярные выражения и методы строк](https://github.com/pileyan/DPO_2020_autumn/tree/master/lect3)
 
 Материалы для тренировки  
 [Ссылки и краткие описания](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/dopmaterialy.md)
