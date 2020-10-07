@@ -30,6 +30,15 @@
 7 занятие (23.09.2020)
 [Сбор данных: введение в html, web-scraping с BeautifulSoup](https://github.com/pileyan/DPO_2020_autumn/tree/master/lect7)
 
+8 занятие (26.09.2020)
+[Сбор данных: web-scraping с BeautifulSoup(Продолжение).Продвинутая работа со словарями. Работа с файлами типа JSON и XML, работа с сервисами через API](https://github.com/pileyan/DPO_2020_autumn/tree/master/lect8)
+
+9 занятие (30.09.2020)
+[Openpyxl - библиотека для работы с Excel-файлами, Немного об SQL и Clickhouse, немного о Beautiful soup](https://github.com/pileyan/DPO_2020_autumn/tree/master/lect9)
+
+10 занятие (03.10.2020)
+[Сбор данных: Selenium, как скачивать файлы, Clickhouse – SQL хранилище с огромной скоростью](https://github.com/pileyan/DPO_2020_autumn/tree/master/lect10)
+
 Материалы для тренировки  
 [Ссылки и краткие описания](https://github.com/rogovich/2020_DPO_PythonProg/blob/master/dopmaterialy.md)
 
